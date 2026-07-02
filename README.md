@@ -300,7 +300,11 @@ tabbit2api/
 
 ---
 
-## 🙏 参考项目
+## 🙏 鸣谢
+
+本项目基于 [hoinata/tabbit2api](https://github.com/hoinata/tabbit2api) 二次开发和优化。
+
+同时参考了以下项目：
 
 - [hih24337/tabb2](https://github.com/hih24337/tabb2) — 设计思路参考
 - [CassiopeiaCode/b4u2cc](https://github.com/CassiopeiaCode/b4u2cc) — Claude 兼容层参考
