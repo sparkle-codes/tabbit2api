@@ -50,7 +50,7 @@ urllib3 >= 2.0.0
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/你的用户名/tabbit2api.git
+git clone https://github.com/sparkle-codes/tabbit2api.git
 cd tabbit2api
 
 # 2. 安装依赖
@@ -65,7 +65,7 @@ python tabbit2api.py
 ### 方式二：Docker Compose 部署
 
 ```bash
-git clone https://github.com/你的用户名/tabbit2api.git
+git clone https://github.com/sparkle-codes/tabbit2api.git
 cd tabbit2api
 docker compose up -d
 ```
