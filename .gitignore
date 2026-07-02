@@ -1,0 +1,8 @@
+.codebuddy/
+__pycache__/
+*.pyc
+config.json
+*.log
+.DS_Store
+.idea/
+.vscode/
